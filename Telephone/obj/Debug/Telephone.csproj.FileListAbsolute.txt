@@ -1,0 +1,12 @@
+H:\C#\Telephone\Telephone\bin\Debug\Telephone.exe.config
+H:\C#\Telephone\Telephone\bin\Debug\Telephone.exe
+H:\C#\Telephone\Telephone\bin\Debug\Telephone.pdb
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.cache
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.exe
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.pdb
+H:\C#\Telephone\Telephone\obj\Debug\Telephone.Phone.resources
+H:\C#\Telephone\Telephone\bin\Debug\Phone.mdf
+H:\C#\Telephone\Telephone\bin\Debug\Phone_log.ldf
